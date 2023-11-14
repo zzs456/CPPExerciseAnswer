@@ -1,2 +1,2 @@
 # CPlusPlusExerciseAnswer
-C++ Primer Plus(第6版)习题解答
+C++ Primer Plus(第6版)部分习题解答
