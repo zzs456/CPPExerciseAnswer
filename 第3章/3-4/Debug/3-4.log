@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Y7000P\大学\编程语言C++\系统全面学习\C++ Primer Plus\章节练习\CPPExerciseAnswer\第3章\3-4\main.cpp(13,17): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\系统全面学习\C++ Primer Plus\章节练习\CPPExerciseAnswer\第3章\3-4\main.cpp(15,18): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\系统全面学习\C++ Primer Plus\章节练习\CPPExerciseAnswer\第3章\3-4\main.cpp(17,20): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  3-4.vcxproj -> D:\Y7000P\大学\编程语言C++\系统全面学习\C++ Primer Plus\章节练习\CPPExerciseAnswer\第3章\Debug\3-4.exe
