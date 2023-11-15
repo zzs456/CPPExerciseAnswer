@@ -12,6 +12,7 @@ int main() {
 	astron_unit = convert(light_year);
 	std::cout << light_year << " light year = "
 		<< astron_unit << " astronomical units." << std::endl;
+	system("pause");
 	return 0;
 }
 

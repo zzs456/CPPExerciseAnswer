@@ -11,6 +11,7 @@ int main() {
 
 	print_run();
 	print_run();
+	system("pause");
 	return 0;
 }
 

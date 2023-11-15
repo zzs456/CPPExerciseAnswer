@@ -12,7 +12,7 @@ int main() {
 	double f_degree;
 	f_degree = convert(c_degree);
 	std::cout << c_degree << " degree Celsius is " << f_degree << " degree Fahrenheit." << std::endl;
-
+	system("pause");
 	return 0;
 }
 

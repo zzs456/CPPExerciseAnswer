@@ -13,7 +13,7 @@ int main() {
 	std::cin >> minute;
 
 	showTime(hour,minute);
-
+	system("pause");
 	return 0;
 }
 
